@@ -26,7 +26,7 @@ Each extracted question contains:
 ### Step 1: Navigate to the project directory
 
 ```bash
-cd /Users/praneeth/Downloads/demo
+cd (folder location)
 ```
 
 ### Step 2: (Optional) Create a virtual environment
